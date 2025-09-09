@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <zephyr/drivers/gpio.h>
-#include <zephyr/kernel.h>
 
 #define LED0_NODE DT_ALIAS(led01)
 
